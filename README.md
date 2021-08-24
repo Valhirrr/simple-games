@@ -1,2 +1,3 @@
 # simple-games
-It's just for practice
+그냥 연습용이야
+wow
